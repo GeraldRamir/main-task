@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "ae33",
+      "nombre": "zxzcx vb",
+      "autor": "vvvd",
+      "fechaCierre": "2024-12-19",
+      "descripcion": "o",
+      "estado": "En curso"
+    },
+    {
+      "id": "5c55",
+      "nombre": "ko",
+      "autor": "ok",
+      "fechaCierre": "2024-12-11",
+      "descripcion": "ji",
+      "estado": "Pendiente"
+    },
+    {
+      "id": "5a74",
+      "nombre": "cc",
+      "autor": "sc",
+      "fechaCierre": "2024-12-10",
+      "descripcion": "-",
+      "estado": "Pendiente"
+    }
+  ]
+}

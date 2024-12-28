@@ -1,0 +1,8 @@
+.modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo sombreado semitransparente */
+}
+
+.modal-content {
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Sombra suave */
+}
